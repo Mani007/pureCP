@@ -7,7 +7,7 @@ int main()
     cin >> x;
     for (int row = 0; row < x; row++)
     {
-        for (int col = 0; col < row; col++)
+        for (int col = 0; col < x; col++)
         {
             cout<<"*";
         }
