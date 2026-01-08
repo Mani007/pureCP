@@ -5,9 +5,14 @@ int main()
     cout << "Pure CP setup" << endl;
     int x;
     cin >> x;
-    for (int i = 0; i < x; i++)
+    for (int row = 0; row < x; row++)
     {
-        cout<<"The index is "<<i<<" "<<endl;
+        for (int col = 0; col < row; col++)
+        {
+            cout<<"*";
+        }
+        cout<<endl;
+        
     }
     
     return 0;
