@@ -1,2 +1,13 @@
 Pure CP setup
-Hey 12
+The index is 0 
+The index is 1 
+The index is 2 
+The index is 3 
+The index is 4 
+The index is 5 
+The index is 6 
+The index is 7 
+The index is 8 
+The index is 9 
+The index is 10 
+The index is 11 
